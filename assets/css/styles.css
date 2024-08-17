@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.foto{
+    height: 400px;
+    width: 380px;
+    background-size: cover;
+}
+
+.imgHabilidades{
+    height: 400px;
+    width: 380px;
+    background-size: cover;
+}
+
+.titulo, .subtitulo{
+    text-align: center;
+}
