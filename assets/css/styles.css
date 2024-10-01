@@ -9,14 +9,12 @@
     width: 380px;
     background-size: cover;
 }
-.carousel{
-    width: 650px;
-    height: 450px;
-    margin: auto;
-    margin-bottom: 185px;
-    color: brown;
-}
 
+.contenedorCarrusel{
+    /* background-color: aqua; */
+    width: 500px;
+    margin: auto;
+}
 
 .imgHabilidades{
     height: 400px;
