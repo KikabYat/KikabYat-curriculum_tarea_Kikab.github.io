@@ -1,8 +1,8 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+} */
 
 .foto{
     height: 400px;
@@ -14,6 +14,11 @@
     /* background-color: aqua; */
     width: 500px;
     margin: auto;
+}
+
+.carousel-control-prev, .carousel-control-next{
+    border: none;
+    opacity: 30%;
 }
 
 .carousel-caption{
